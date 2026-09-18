@@ -1,4 +1,4 @@
-# README: NumPy, Matplotlib, and OpenCV Fundamentals
+# NumPy, Matplotlib, and OpenCV Fundamentals
 
 This notebook serves as an exploration and demonstration of fundamental concepts in numerical computing and image processing using popular Python libraries:
 
